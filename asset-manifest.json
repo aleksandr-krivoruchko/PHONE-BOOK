@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PHONE-BOOK/static/css/main.86b07da4.css",
+    "main.js": "/PHONE-BOOK/static/js/main.7d86f898.js",
+    "static/media/ukr.png": "/PHONE-BOOK/static/media/ukr.cb2ff528171183c74e33.png",
+    "index.html": "/PHONE-BOOK/index.html",
+    "main.86b07da4.css.map": "/PHONE-BOOK/static/css/main.86b07da4.css.map",
+    "main.7d86f898.js.map": "/PHONE-BOOK/static/js/main.7d86f898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b07da4.css",
+    "static/js/main.7d86f898.js"
+  ]
+}
